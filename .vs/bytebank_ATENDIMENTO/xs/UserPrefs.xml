@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{95517C19-CA38-440D-9B63-F03C0B88D349}|Default">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.bytebank__ATENDIMENTO PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="bytebank_ATENDIMENTO/Program.cs">
+    <Files>
+      <File FileName="bytebank_ATENDIMENTO/Program.cs" Line="39" Column="2" />
+      <File FileName="bytebank_ATENDIMENTO/bytebank.Modelos/Conta/ContaCorrente.cs" Line="86" Column="22" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="bytebank_ATENDIMENTO" expanded="True">
+            <Node name="bytebank_ATENDIMENTO" expanded="True">
+              <Node name="bytebank.Modelos" expanded="True" />
+              <Node name="bytebank.Util" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>
